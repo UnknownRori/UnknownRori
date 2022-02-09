@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**UnknownRori/UnknownRori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About me
 
-Here are some ideas to get you started:
+🧍 I'm UnknownRori, a high school student. I'm very enthusiatic about learning new technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technology that i learned is Laravel, Tailwind, Bootstrap, Jquery, Mysql, HTML, CSS, JS, PHP, Python.
+
+🕸️ I also has [website](https://unknownrori.github.io/personal-portfolio/) thanks to github page.
+
+<p align="center">
+  <img style="margin:auto" height="150" src="https://github-readme-stats.vercel.app/api?username=UnknownRori&show_icons=true&theme=tokyonight" />
+  <img style="margin:auto" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownRori&layout=compact&theme=tokyonight" />
+</p>
