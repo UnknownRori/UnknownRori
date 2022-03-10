@@ -1,0 +1,121 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        name: profile
+        with:
+          filename: metrics-profile.svg
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Singapore
+          base_indepth: yes
+          config_order: base.header, isocalendar, notable, discussions, topics
+          plugin_traffic: yes
+          plugin_isocalendar: yes
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          plugin_notable: yes
+          plugin_discussions: yes
+      
+      - uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        name: wakatime
+        with:
+          filename: metrics-wakatime.svg
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Singapore
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          
+      - uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        name: languages
+        with:
+          filename: metrics-languages.svg
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Singapore
+          base: languages
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+
+      - uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        name: habits
+        with:
+          filename: metrics-habits.svg
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Singapore
+          base: ""
+          plugin_habits: true
+          plugin_habits_charts: yes
+
+      - uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        name: stackoverflow
+        with:
+          filename: metrics-stackoverflow.svg
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Singapore
+          base: ""
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 13991588
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 2
+
+      - uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        name: Spotify - Recently listed
+        with:
+          filename: metrics-recent-music-spotify.svg
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: recent
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
+          plugin_music_limit: 2
+
+      - uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        name: Spotify - Top Track
+        with:
+          filename: metrics-top-tracks-spotify.svg
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
+          plugin_music_limit: 2
