@@ -8,6 +8,8 @@
 
 ⏰ Technology that i always use is Laravel, Bootstrap, Jquery, Mysql, HTML, CSS, Javascript, PHP.
 
+🖥️ My IDE is heavily modified Visual Studio Code, but i also use Atom and NeoVim
+
 📘 I currently learning Laravel Livewire.
 
 🕸️ I also has [website](https://unknownrori.github.io/personal-portfolio/) thanks to github page.
