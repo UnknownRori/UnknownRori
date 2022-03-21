@@ -10,7 +10,7 @@
 
 🖥️ My IDE is heavily customized Visual Studio Code, but i also use Atom and NeoVim.
 
-📘 I currently learning Laravel Livewire and Godot Game Engine.
+📘 I currently learning Laravel Livewire and C#.
 
 🕸️ I also has [website](https://unknownrori.github.io/personal-portfolio/) thanks to github page.
 
