@@ -4,7 +4,7 @@
 
 🧍  I'm UnknownRori, a high school student. I'm very enthusiatic about learning new technology.
 
-💻 Technology that i learned is Laravel, Tailwind, Bootstrap, Jquery, Mysql, Sqlite, HTML, CSS, Javascript, HTML, PHP, Python, Java.
+💻 Technology that i learned is Laravel, Tailwind, Bootstrap, Jquery, Mysql, Sqlite, HTML, CSS, Javascript, PHP, Python, Java.
 
 ⏰ Technology that i always use is Laravel, Bootstrap, Jquery, Mysql, HTML, CSS, Javascript, PHP.
 
