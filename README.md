@@ -4,13 +4,13 @@
 
 🧍  I'm UnknownRori, a high school student. I'm very enthusiatic about learning new technology.
 
-💻 Technology that i learned is Laravel, Tailwind, Bootstrap, Jquery, Mysql, Sqlite, HTML, CSS, Javascript, PHP, Python, Java.
+💻 Technology that i learned is Laravel, Tailwind, Bootstrap, Jquery, Mysql, Sqlite, HTML, CSS, Javascript, PHP, Python, Java, Livewire and C#.
 
-⏰ Technology that i always use is Laravel, Bootstrap, Jquery, Mysql, HTML, CSS, Javascript, PHP.
+⏰ Technology I always use is Laravel, Bootstrap, Jquery, Mysql, HTML, CSS, Javascript, PHP.
 
 🖥️ My IDE is heavily customized Visual Studio Code, but i also use Atom and NeoVim.
 
-📘 I currently learning Laravel Livewire and C#.
+📘 I currently learning Vue and Godot Game Engine.
 
 🕸️ I also has [website](https://unknownrori.github.io/personal-portfolio/) thanks to github page.
 
