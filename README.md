@@ -6,7 +6,7 @@
 
 💻 Technology that i learned is Laravel, Tailwind, Bootstrap, Jquery, Mysql, Sqlite, HTML, CSS, Javascript, PHP, Python, Java, Livewire and C#.
 
-⏰ Technology I always use is Laravel, Bootstrap, Jquery, Mysql, HTML, CSS, Javascript, PHP.
+⏰ Technology I always use is Laravel, Bootstrap, Jquery, Mysql, HTML, CSS, JavaScript, PHP, Livewire.
 
 🖥️ My IDE is heavily customized Visual Studio Code, but i also use Atom and NeoVim.
 
@@ -26,5 +26,8 @@
   </a>
   <a href="https://stackoverflow.com/users/13991588/unknownrori">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+  <a href="https://www.figma.com/@UnknownRori">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   </a>
 </div>
