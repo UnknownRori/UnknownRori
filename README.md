@@ -8,7 +8,7 @@
 
 ⏰ Technology I always use is Laravel, Bootstrap, Jquery, Mysql, HTML, CSS, PHP, Livewire, Tailwind, React, and TypeScript.
 
-🖥️ My IDE is heavily customized Visual Studio Code, but i also use Atom and NeoVim.
+🖥️ My IDE is heavily customized Visual Studio Code, but i also use Atom and NeoVim. But if you curious on how configuration looks like please take a look on this [repo](https://github.com/UnknownRori/mysetting)
 
 📘 i am currently working on mastering my skills.
 
