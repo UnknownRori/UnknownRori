@@ -30,4 +30,7 @@
   <a href="https://www.figma.com/@UnknownRori">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   </a>
+  <a href="https://discord.com/users/611902987744313345">
+    <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </div>
