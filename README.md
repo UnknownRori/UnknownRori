@@ -15,8 +15,8 @@
 🕸️ I also has [personal website](https://unknownrori-firebase.web.app) thanks to firebase to host it for free.
 
 <p align="center">
-  <img style="margin:auto" height="150" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=UnknownRori&show_icons=true&theme=tokyonight&count_private=true" />
-  <img style="margin:auto" height="150" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=UnknownRori&layout=compact&theme=tokyonight" />
+  <img style="margin:auto" height="150" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=UnknownRori&show_icons=true&theme=cobalt&count_private=true" />
+  <img style="margin:auto" height="150" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=UnknownRori&layout=compact&theme=cobalt" />
 </p>
 
 <div align="center">
