@@ -4,7 +4,7 @@
 
 🧍  I'm UnknownRori, a college student. I'm very enthusiatic about learning new technology.
 
-💻 Technology that i learned is Laravel, Tailwind, Bootstrap, Jquery, Mysql, Sqlite, HTML, CSS, Javascript, PHP, Python, Java, Livewire, React, Laravel Inertia, Vue, Rust, C++ and C#.
+💻 Technology that i learned is Laravel, Tailwind, Bootstrap, Jquery, Mysql, Sqlite, HTML, CSS, Javascript, Typescript, PHP, Python, Java, Livewire, React, Laravel Inertia, Vue, Rust, C++, C and C#.
 
 ⏰ Technology I always use is Laravel, Bootstrap, Jquery, Mysql, HTML, CSS, PHP, Livewire, Tailwind, React, and TypeScript.
 
