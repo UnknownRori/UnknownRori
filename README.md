@@ -2,7 +2,7 @@
 
 ### 🚀 About me
 
-🧍  I'm Akbar Hendra Jaya, my nickname Akbar but in internet I usually called UnknownRori, I am a first year college student. I'm very enthusiatic about learning new technology.
+🧍  I'm Akbar Hendra Jaya, my nickname is Akbar but in internet I usually called UnknownRori, I am a first year college student. I'm very enthusiatic about learning new technology.
 
 💻 Technology that i learned is Laravel, Tailwind, Bootstrap, Jquery, Mysql, Sqlite, HTML, CSS, Javascript, Typescript, PHP, Python, Java, Livewire, React, Laravel Inertia, Vue, Rust, C++, C and C#.
 
