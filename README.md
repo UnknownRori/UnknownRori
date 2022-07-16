@@ -33,4 +33,7 @@
   <a href="https://discord.com/users/611902987744313345">
     <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="https://unknownrori.itch.io/">
+    <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
+  </a>
 </div>
