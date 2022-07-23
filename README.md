@@ -36,4 +36,7 @@
   <a href="https://unknownrori.itch.io/">
     <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
   </a>
+  <a href="https://steamcommunity.com/id/UnknownRori/">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
 </div>
