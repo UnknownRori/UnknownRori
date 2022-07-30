@@ -6,7 +6,7 @@
 
 💻 Technology that i learned is Laravel, Tailwind, Bootstrap, Jquery, Mysql, Sqlite, HTML, CSS, Javascript, Typescript, PHP, Python, Java, Livewire, React, Laravel Inertia, Vue, Rust, C++, C and C#.
 
-⏰ Technology I always use is Laravel, Bootstrap, Jquery, Mysql, HTML, CSS, PHP, Livewire, Tailwind, React, and TypeScript.
+⏰ Technology I always use is Laravel, Bootstrap, Jquery, Mysql, HTML, CSS, PHP, Livewire, Tailwind, React, Vue, C++, and TypeScript.
 
 🖥️ My IDE is heavily customized Visual Studio Code, but i also use Atom and NeoVim. But if you curious on how configuration looks like please take a look on this [repo](https://github.com/UnknownRori/mysetting)
 
