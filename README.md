@@ -4,7 +4,7 @@
 
 🧍  I'm Akbar Hendra Jaya, my nickname is Akbar but in internet I usually called UnknownRori, I am a first year college student. I'm very enthusiatic about learning new technology.
 
-💻 Technology that i learned is Laravel, Tailwind, Bootstrap, Jquery, Mysql, Sqlite, PostgreSQL, Redis, MongoDB, HTML, CSS, Javascript, Typescript, PHP, Python, Java, Livewire, React, Laravel Inertia, Vue, Rust, C++, C and C#.
+💻 Technology that i learned is Laravel, Tailwind, Bootstrap, Jquery, Mysql, Sqlite, PostgreSQL, Redis, MongoDB, Docker, HTML, CSS, Javascript, Typescript, PHP, Python, Java, Livewire, React, Laravel Inertia, Vue, Rust, C++, C and C#.
 
 ⏰ Technology I always use is Laravel, Bootstrap, Jquery, Mysql, Sqlite, HTML, CSS, PHP, Livewire, Tailwind, React, Vue, C++, and TypeScript.
 
