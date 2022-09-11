@@ -28,33 +28,30 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <details>
-<summary> :rocket: Other Technology and Framework i use</summary>
+  <summary> :rocket: Other Technology and Framework i use</summary>
 
-<table border="0">
-  <tr>
-  <td>
-
-   - Livewire
-   - Inertia.js
-   - Redis
-   - MongoDB
-   - Postgres
-   - Docker
-
-  </td>
-  <td>
-
-   - Python
-   - Java
-   - C
-   - C#
-   - Javascript
-   - Flask
-
-  </td>
-  </tr>
-</table>
-
+  <table border="0">
+    <tr>
+      <td>Livewire</td>
+      <td>Postgres</td>
+      <td>Docker</td>
+    </tr>
+    <tr>
+      <td>MongoDB</td>
+      <td>Inertia.js</td>
+      <td>Redis</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>C</td>
+      <td>C#</td>
+    </tr>
+    <tr>
+      <td>Javascript</td>
+      <td>Java</td>
+      <td>Flask</td>
+    </tr>
+  </table>
 </details>
 
 <details>
@@ -64,7 +61,6 @@
     <img style="margin:auto" height="150" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=UnknownRori&show_icons=true&theme=cobalt&count_private=true" />
     <img style="margin:auto" height="150" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=UnknownRori&layout=compact&theme=cobalt" />
   </p>
-  
   
 <div align="center">
   <h2>My other account</h2>
