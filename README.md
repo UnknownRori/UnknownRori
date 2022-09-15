@@ -6,7 +6,7 @@
 
 🖥️ My IDE is heavily customized Visual Studio Code, but i also use Atom and NeoVim. But if you curious on how configuration looks like please take a look on this [repo](https://github.com/UnknownRori/mysetting).
 
-📘 i am currently working on mastering my skills.
+📘 i am currently learning Angular, Svelte, and CodeIgniter.
 
 🕸️ I also has [personal website](https://unknownrori-firebase.web.app), thanks to firebase for host it for free.
 
