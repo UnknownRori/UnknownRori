@@ -6,7 +6,7 @@
 
 🖥️ My IDE is heavily customized Visual Studio Code, but i also use Atom and NeoVim. But if you curious on how configuration looks like please take a look on this [repo](https://github.com/UnknownRori/mysetting).
 
-📘 i am currently learning Angular, Svelte, and CodeIgniter.
+📘 i am currently mastering my skills.
 
 🕸️ I also has [personal website](https://unknownrori-firebase.web.app), thanks to firebase for host it for free.
 
@@ -34,21 +34,25 @@
       <td>Livewire</td>
       <td>Postgres</td>
       <td>Docker</td>
+      <td>MongoDB</td>
     </tr>
     <tr>
-      <td>MongoDB</td>
       <td>Inertia.js</td>
       <td>Redis</td>
-    </tr>
-    <tr>
       <td>Python</td>
       <td>C</td>
-      <td>C#</td>
     </tr>
     <tr>
+      <td>C#</td>
       <td>Javascript</td>
-      <td>Java</td>
+      <td>Svelte</td>
       <td>Flask</td>
+    </tr>
+    <tr>
+      <td>Angular</td>
+      <td>Java</td>
+      <td>CodeIgniter</td>
+      <td>Rust</td>
     </tr>
   </table>
 </details>
