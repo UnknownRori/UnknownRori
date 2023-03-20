@@ -6,7 +6,7 @@
 
 🖥️ My IDE is heavily customized Visual Studio Code, but i also use NeoVim too. If you curious on how configuration looks like please take a look on this [repo](https://github.com/UnknownRori/mysetting).
 
-📘 i am currently learning GoLang, Wordpress and Graphql.
+📘 i am currently learning GoLang, and Graphql.
 
 🕸️ I also has [personal website](https://unknownrori-firebase.web.app), thanks to firebase for host it for free.
 
@@ -27,6 +27,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <details>
   <summary> :rocket: Other Technology and Framework i use</summary>
@@ -54,7 +55,7 @@
       <td>Angular</td>
       <td>Java</td>
       <td>CodeIgniter</td>
-      <td>Rust</td>
+      <td>Wordpress</td>
     </tr>
   </table>
 </details>
