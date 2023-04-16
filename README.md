@@ -92,4 +92,12 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>
+  
+<details>
+  <summary>:book: Detailed Stats</summary>
+  <a href="https://metrics.lecoq.io/insights/UnknownRori">
+    <img src="https://metrics.lecoq.io/UnknownRori?template=classic&config.timezone=Asia%2FSingapore" />
+  </a>
+</details>
+  
 </details>
