@@ -76,6 +76,9 @@
   <a href="https://stackoverflow.com/users/13991588/unknownrori">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
+  <a href="https://stackexchange.com/users/19154447/unknownrori">
+    <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/>
+  </a>
   <a href="https://www.figma.com/@UnknownRori" target="_blank">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   </a>
@@ -90,6 +93,9 @@
   </a>
   <a href="https://www.instagram.com/unknownrori/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://unknownrori-blogspot.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </div>
   
