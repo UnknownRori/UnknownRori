@@ -2,11 +2,13 @@
 
 ### 🚀 About me
 
-🧍  I'm Akbar Hendra Jaya also known as UnknownRori a first year college student.
+🧍  I'm Akbar Hendra Jaya also known as UnknownRori a first year college student, I focus on Fullstack web developer.
 
 🖥️ My IDE is heavily customized Visual Studio Code, but i also use NeoVim too. If you curious on how configuration looks like please take a look on this [repo](https://github.com/UnknownRori/mysetting).
 
-📘 i am currently learning GoLang, and Graphql.
+🌟 I'm interested in Machine Learning, Web Development, and System Programming
+
+📘 i am currently learning Go, Ruby, and Graphql.
 
 🕸️ I also has [personal website](https://unknownrori-firebase.web.app), thanks to firebase for host it for free.
 
