@@ -75,6 +75,7 @@
   <p align="center">
     <img style="margin:auto" height="150" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=UnknownRori&show_icons=true&theme=cobalt&count_private=true" />
     <img style="margin:auto" height="150" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=UnknownRori&layout=compact&theme=cobalt" />
+    <img style="margin:auto" height="150" src="https://streak-stats.demolab.com?user=UnknownRori&theme=cobalt&background=193549" />
   </p>
   
 <div align="center">
