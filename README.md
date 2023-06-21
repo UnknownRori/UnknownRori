@@ -107,8 +107,11 @@
   <a href="https://unknownrori-blogspot.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/unknownrori" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
-  
+
 <details>
   <summary>:book: Detailed Stats</summary>
   <a href="https://metrics.lecoq.io/insights/UnknownRori">
