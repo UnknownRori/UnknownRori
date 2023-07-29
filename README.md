@@ -8,7 +8,7 @@
 
 🌟 I'm interested in Machine Learning, Web Development, and System Programming
 
-📘 i am currently learning Graphql.
+📘 i am currently learning Graphql, Tauri.
 
 🕸️ I also has [personal website](https://unknownrori-firebase.web.app), thanks to firebase for host it for free.
 
