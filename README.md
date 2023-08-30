@@ -8,7 +8,7 @@
 
 🌟 I'm interested in Machine Learning, Web Development, and System Programming
 
-📘 i am currently learning Graphql, Tauri.
+📘 i am currently learning Graphql, Tauri, Nuxt.
 
 🕸️ I also has [personal website](https://unknownrori-firebase.web.app), thanks to firebase for host it for free.
 
@@ -111,6 +111,9 @@
   </a>
   <a href="https://www.linkedin.com/in/unknownrori" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.freecodecamp.org/UnknownRori" target="_blank">
+    <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
   </a>
 </div>
 
