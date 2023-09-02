@@ -119,9 +119,10 @@
 
 <details>
   <summary>:book: Detailed Stats</summary>
-  <a href="https://metrics.lecoq.io/insights/UnknownRori">
-    <img src="https://metrics.lecoq.io/UnknownRori?template=classic&config.timezone=Asia%2FSingapore" />
-  </a>
+  <img src="/metrics.profile.svg" alt="Metrics" width="450">
+  <img src="/metrics.languages.svg" alt="Metrics" width="450">
+  <img src="/metrics.habits.svg" alt="Metrics" width="450">
+  <img src="/metrics.traffic.svg" alt="Metrics" width="450">
 </details>
   
 </details>
