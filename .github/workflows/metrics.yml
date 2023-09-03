@@ -13,13 +13,17 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        name: profile
         with:
           filename: metrics.profile.svg
           output_action: gist
-          config_timezone: Asia/Singapore
+          committer_gist: ${{ secrets.METRICS_TOKEN }}
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Singapore
           base_indepth: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
+          plugin_traffic: yes
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_details: lines, bytes-size, percentage
@@ -31,4 +35,42 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
+      
+      - uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        name: wakatime
+        with:
+          filename: metrics.wakatime.svg
+          output_action: gist
+          committer_gist: ${{ secrets.METRICS_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Singapore
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           
+      - uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        name: languages
+        with:
+          filename: metrics.languages.svg
+          output_action: gist
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_gist: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Singapore
+          base: ""
+          plugin_languages: true
+
+      - uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        name: habits
+        with:
+          filename: metrics.habits.svg
+          output_action: gist
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_gist: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Singapore
+          base: ""
+          plugin_habits: true
+          plugin_habits_charts: yes
