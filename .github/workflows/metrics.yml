@@ -16,9 +16,9 @@ jobs:
         if: ${{ success() || failure() }}
         name: profile
         with:
-          filename: metrics.profile.svg
+          filename: metrics-profile.svg
           output_action: gist
-          committer_gist: ${{ secrets.METRICS_TOKEN }}
+          committer_gist: ${{ secrets.GIST_ID }}
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Singapore
           base_indepth: yes
@@ -40,9 +40,9 @@ jobs:
         if: ${{ success() || failure() }}
         name: wakatime
         with:
-          filename: metrics.wakatime.svg
+          filename: metrics-wakatime.svg
           output_action: gist
-          committer_gist: ${{ secrets.METRICS_TOKEN }}
+          committer_gist: ${{ secrets.GIST_ID }}
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Singapore
@@ -54,10 +54,10 @@ jobs:
         if: ${{ success() || failure() }}
         name: languages
         with:
-          filename: metrics.languages.svg
+          filename: metrics-languages.svg
           output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_gist: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Singapore
           base: ""
           plugin_languages: true
@@ -66,10 +66,10 @@ jobs:
         if: ${{ success() || failure() }}
         name: habits
         with:
-          filename: metrics.habits.svg
+          filename: metrics-habits.svg
           output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_gist: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Singapore
           base: ""
           plugin_habits: true
