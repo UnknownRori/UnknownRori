@@ -2,17 +2,30 @@
 
 ### 🚀 About me
 
-🧍  I'm Akbar Hendra Jaya also known as UnknownRori a first year college student, I focus on Fullstack web developer.
+🧍  I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I focus on Fullstack web developer, I'm interested in Web Development, System Programming, Machine Learning.
 
-🖥️ My IDE is heavily customized Visual Studio Code, but i also use NeoVim too. If you curious on how configuration looks like please take a look on this [repo](https://github.com/UnknownRori/mysetting).
+<table>
+  <tr>
+    <td>
+      <img width="395" alt="metrics-profile" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2607439a5ad6f007550310808402059bf7d8f63e/metrics-profile.svg" />
+    </td>
+    <td>
+      <img width="395" alt="metrics-languages" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2607439a5ad6f007550310808402059bf7d8f63e/metrics-languages.svg" />
+      <img width="395" alt="metrics-wakatime" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2607439a5ad6f007550310808402059bf7d8f63e/metrics-wakatime.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="395" alt="metrics-stackoverflow" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2607439a5ad6f007550310808402059bf7d8f63e/metrics-stackoverflow.svg" />
+    </td>
+    <td>
+      <img width="395" alt="metrics-habits" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2607439a5ad6f007550310808402059bf7d8f63e/metrics-habits.svg" />
+    </td>
+  </tr>
+</table>
 
-🌟 I'm interested in Machine Learning, Web Development, and System Programming
-
-📘 i am currently learning Graphql, Tauri, Nuxt.
-
-🕸️ I also has [personal website](https://unknownrori-firebase.web.app), thanks to firebase for host it for free.
-
-⏰ Technology I always use is :
+<details>
+  <summary>⏰ Technology I always use is :</summary>
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -33,6 +46,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+</details>
 
 <details>
   <summary> :rocket: Other Technology and Framework i use</summary>
@@ -71,14 +85,14 @@
   </table>
 </details>
 
-<details>
-  <summary> :book: Stat & My other account</summary>
+<!-- <details> -->
+  <!-- <summary> :book: Stat & My other account</summary> -->
   
-  <p align="center">
+  <!-- <p align="center">
     <img style="margin:auto" height="150" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=UnknownRori&show_icons=true&theme=cobalt&count_private=true" />
     <img style="margin:auto" height="150" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=UnknownRori&layout=compact&theme=cobalt" />
     <img style="margin:auto" height="150" src="https://streak-stats.demolab.com?user=UnknownRori&theme=cobalt&background=193549" />
-  </p>
+  </p> -->
   
 <div align="center">
   <h2>My other account</h2>
@@ -116,13 +130,5 @@
     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
   </a>
 </div>
-
-<details>
-  <summary>:book: Detailed Stats</summary>
-  <img src="/metrics.profile.svg" alt="Metrics" width="450">
-  <img src="/metrics.languages.svg" alt="Metrics" width="450">
-  <img src="/metrics.habits.svg" alt="Metrics" width="450">
-  <img src="/metrics.traffic.svg" alt="Metrics" width="450">
-</details>
   
-</details>
+<!-- </details> -->
