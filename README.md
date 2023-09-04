@@ -1,98 +1,26 @@
 ## Hi there 👋
 
-### 🚀 About me
-
-🧍  I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I focus on Fullstack web developer, I'm interested in Web Development, System Programming, Machine Learning.
+> I'm Akbar Hendra Jaya also known as `UnknownRori` a second year college student, I focus on Fullstack web developer, I'm interested in `Web Development`, `System Programming`, `Machine Learning`.
 
 <table>
   <tr>
-    <td>
+    <td width="395">
       <img width="395" alt="metrics-profile" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2607439a5ad6f007550310808402059bf7d8f63e/metrics-profile.svg" />
     </td>
-    <td>
+    <td width="395">
       <img width="395" alt="metrics-languages" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2607439a5ad6f007550310808402059bf7d8f63e/metrics-languages.svg" />
       <img width="395" alt="metrics-wakatime" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2607439a5ad6f007550310808402059bf7d8f63e/metrics-wakatime.svg" />
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="395">
       <img width="395" alt="metrics-stackoverflow" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2607439a5ad6f007550310808402059bf7d8f63e/metrics-stackoverflow.svg" />
     </td>
-    <td>
+    <td width="395">
       <img width="395" alt="metrics-habits" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2607439a5ad6f007550310808402059bf7d8f63e/metrics-habits.svg" />
     </td>
   </tr>
 </table>
-
-<details>
-  <summary>⏰ Technology I always use is :</summary>
-
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-</details>
-
-<details>
-  <summary> :rocket: Other Technology and Framework i use</summary>
-
-  <table border="0">
-    <tr>
-      <td>Livewire</td>
-      <td>Postgres</td>
-      <td>Docker</td>
-      <td>MongoDB</td>
-    </tr>
-    <tr>
-      <td>Inertia.js</td>
-      <td>Redis</td>
-      <td>Python</td>
-      <td>Yew</td>
-    </tr>
-    <tr>
-      <td>C#</td>
-      <td>Javascript</td>
-      <td>Svelte</td>
-      <td>Flask</td>
-    </tr>
-    <tr>
-      <td>Angular</td>
-      <td>Java</td>
-      <td>CodeIgniter</td>
-      <td>Wordpress</td>
-    </tr>
-    <tr>
-      <td>Go</td>
-      <td>Zig</td>
-      <td>Ruby</td>
-      <td>Lua</td>
-    </tr>
-  </table>
-</details>
-
-<!-- <details> -->
-  <!-- <summary> :book: Stat & My other account</summary> -->
-  
-  <!-- <p align="center">
-    <img style="margin:auto" height="150" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=UnknownRori&show_icons=true&theme=cobalt&count_private=true" />
-    <img style="margin:auto" height="150" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=UnknownRori&layout=compact&theme=cobalt" />
-    <img style="margin:auto" height="150" src="https://streak-stats.demolab.com?user=UnknownRori&theme=cobalt&background=193549" />
-  </p> -->
   
 <div align="center">
   <h2>My other account</h2>
@@ -131,4 +59,3 @@
   </a>
 </div>
   
-<!-- </details> -->
