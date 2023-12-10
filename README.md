@@ -9,6 +9,8 @@ I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I
     <td width="395">
       <img width="395" alt="metrics-languages" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-languages.svg" />
       <img width="395" alt="metrics-wakatime" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-wakatime.svg" />
+      <img width="395" alt="metrics-wakatime" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2efa23aa0273145f7f33d565911694af7679a64c/metrics-recent-music-spotify.svg" />
+      <img width="395" alt="metrics-wakatime" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2efa23aa0273145f7f33d565911694af7679a64c/metrics-top-tracks-spotify.svg" />
     </td>
   </tr>
   <tr>
