@@ -64,7 +64,7 @@ I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I
   <a href="https://www.patreon.com/UnknownRori" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
   </a>
-  <a href=https://open.spotify.com/user/31r62u3ch2kpe2vmk2bb3daulywy" target="_blank">
+  <a href="https://open.spotify.com/user/31r62u3ch2kpe2vmk2bb3daulywy" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </div>
