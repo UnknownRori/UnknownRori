@@ -67,8 +67,11 @@ I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I
   <a href="https://open.spotify.com/user/31r62u3ch2kpe2vmk2bb3daulywy" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <a href="li" target="_blank">
+  <a href="https://www.npmjs.com/~unknownrori" target="_blank">
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
+  <a href="https://www.deviantart.com/unknownrori" target="_blank">
+    <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" />
   </a>
 </div>
   
