@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I focus on Fullstack web developer, I'm interested in Web Development, System Programming, Machine Learning.
+I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I focus on Fullstack web developer, I'm interested in Web Development, System Programming, Machine Learning, and also Game Development.
 
 <table>
   <tr>
