@@ -73,5 +73,11 @@ I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I
   <a href="https://www.deviantart.com/unknownrori" target="_blank">
     <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" />
   </a>
+  <a href="https://pinterest.com/UnknownRori/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/UnknownRori" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
 </div>
   
