@@ -79,5 +79,8 @@ I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I
   <a href="https://dribbble.com/UnknownRori" target="_blank">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
+  <a href="https://soundcloud.com/unknown-rori" target="_blank">
+    <img src="https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
+  </a>
 </div>
   
