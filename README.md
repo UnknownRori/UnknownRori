@@ -49,9 +49,6 @@ I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I
   <a href="https://www.instagram.com/unknownrori/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://unknownrori-blogspot.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/unknownrori" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -87,6 +84,9 @@ I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I
   </a>
   <a href="https://medium.com/@unknownrori" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/UnknownRori", target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
 </div>
   
