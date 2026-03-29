@@ -1,8 +1,8 @@
 ## Hi there 👋
-I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I focus on Fullstack web developer, I'm interested in Web Development, System Programming, Machine Learning, Music Composition (Mostly in Gameboy and Touhou style music), and also Game Development.
 
-> [!WARNING]
-> Currently Migrating to Gitlab!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8QWQY6)
+
+I'm Akbar Hendra Jaya also known as UnknownRori a fresh graduate, I focus on Fullstack web developer, I'm interested in Web Development, System Programming, Machine Learning, Music Composition (Mostly in Gameboy and Touhou style music), and also Game Development.
 
 <table>
   <tr>
@@ -16,14 +16,14 @@ I'm Akbar Hendra Jaya also known as UnknownRori a second year college student, I
       <img width="395" alt="metrics-wakatime" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2efa23aa0273145f7f33d565911694af7679a64c/metrics-top-tracks-spotify.svg" />
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td width="395">
       <img width="395" alt="metrics-stackoverflow" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-stackoverflow.svg" />
     </td>
     <td width="395">
       <img width="395" alt="metrics-habits" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-habits.svg" />
     </td>
-  </tr>
+  </tr> -->
 </table>
   
 <div align="center">
