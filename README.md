@@ -1,30 +1,35 @@
-## Hi there 👋
+<img src="./assets/cover.png">
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8QWQY6)
+<br>
 
-I'm Akbar Hendra Jaya also known as UnknownRori a fresh graduate, I focus on Fullstack web developer, I'm interested in Web Development, System Programming, Machine Learning, Music Composition (Mostly in Gameboy and Touhou style music), and also Game Development.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=800&lines=%E3%80%90+Web+Dev+%7C+Indie+Game+Dev+%7C+Pixel+Art+Artist+%7C+Music+Composer+%E3%80%91)](https://git.io/typing-svg)
 
-<table>
-  <tr>
-    <td width="395">
-      <img width="395" alt="metrics-profile" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-profile.svg"" />
-    </td>
-    <td width="395">
-      <img width="395" alt="metrics-languages" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-languages.svg" />
-      <img width="395" alt="metrics-wakatime" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-wakatime.svg" />
-      <img width="395" alt="metrics-wakatime" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2efa23aa0273145f7f33d565911694af7679a64c/metrics-recent-music-spotify.svg" />
-      <img width="395" alt="metrics-wakatime" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2efa23aa0273145f7f33d565911694af7679a64c/metrics-top-tracks-spotify.svg" />
-    </td>
-  </tr>
-  <!-- <tr>
-    <td width="395">
-      <img width="395" alt="metrics-stackoverflow" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-stackoverflow.svg" />
-    </td>
-    <td width="395">
-      <img width="395" alt="metrics-habits" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-habits.svg" />
-    </td>
-  </tr> -->
-</table>
+> [!NOTE]
+> I'm Akbar Hendra Jaya also known as UnknownRori a fresh graduate, I focus on **Full-Stack Web Developer** and interested in **System Programming**, **Music Composition**, **Pixel Art**, and **Game Development**.
+
+<div>
+  <table>
+    <tr>
+      <td width="395">
+        <img width="395" alt="metrics-profile" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-profile.svg"" />
+      </td>
+      <td width="395">
+        <img width="395" alt="metrics-languages" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-languages.svg" />
+        <img width="395" alt="metrics-wakatime" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-wakatime.svg" />
+        <img width="395" alt="metrics-wakatime" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2efa23aa0273145f7f33d565911694af7679a64c/metrics-recent-music-spotify.svg" />
+        <img width="395" alt="metrics-wakatime" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/2efa23aa0273145f7f33d565911694af7679a64c/metrics-top-tracks-spotify.svg" />
+      </td>
+    </tr>
+    <!-- <tr>
+      <td width="395">
+        <img width="395" alt="metrics-stackoverflow" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-stackoverflow.svg" />
+      </td>
+      <td width="395">
+        <img width="395" alt="metrics-habits" src="https://gist.githubusercontent.com/UnknownRori/35c73a169c0e5db7a0cb455f5e7bc048/raw/metrics-habits.svg" />
+      </td>
+    </tr> -->
+  </table>
+</div>
   
 <div align="center">
   <h2>My other account</h2>
@@ -92,4 +97,5 @@ I'm Akbar Hendra Jaya also known as UnknownRori a fresh graduate, I focus on Ful
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
 </div>
-  
+
+<!-- What are you looking at? -->
