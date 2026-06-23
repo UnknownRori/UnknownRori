@@ -1,8 +1,9 @@
 <img src="./assets/cover.png">
 
 <br>
-
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=800&lines=%E3%80%90+Web+Dev+%7C+Indie+Game+Dev+%7C+Pixel+Art+Artist+%7C+Music+Composer+%E3%80%91)](https://git.io/typing-svg)
+---!>
 
 > [!NOTE]
 > I'm Akbar Hendra Jaya also known as UnknownRori a fresh graduate, I focus on **Full-Stack Web Developer** and interested in **System Programming**, **Music Composition**, **Pixel Art**, and **Game Development**.
