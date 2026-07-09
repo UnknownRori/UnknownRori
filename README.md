@@ -1,4 +1,4 @@
-<img src="./assets/cover.png">
+<img src="https://raw.githubusercontent.com/UnknownRori/UnknownRori/262ff36ae83800845ab053a94befb77ce47543cb/assets/cover.png">
 
 <br>
 <!--
