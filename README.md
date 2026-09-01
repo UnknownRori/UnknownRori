@@ -55,9 +55,9 @@
   <a href="https://steamcommunity.com/id/UnknownRori/" target="_blank">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/unknownrori/" target="_blank">
+  <!-- <a href="https://www.instagram.com/unknownrori/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/unknownrori" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
