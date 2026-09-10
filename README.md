@@ -43,9 +43,9 @@
   <a href="https://stackexchange.com/users/19154447/unknownrori">
     <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/>
   </a>
-  <a href="https://www.figma.com/@UnknownRori" target="_blank">
+  <!-- <a href="https://www.figma.com/@UnknownRori" target="_blank">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://discord.com/users/611902987744313345" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
@@ -64,9 +64,9 @@
   <a href="https://www.freecodecamp.org/UnknownRori" target="_blank">
     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
   </a>
-  <a href="https://www.codewars.com/users/UnknownRori" target="_blank">
+  <!-- <a href="https://www.codewars.com/users/UnknownRori" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
-  </a>
+  </a> -->
   <a href="https://www.patreon.com/UnknownRori" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
   </a>
@@ -79,15 +79,15 @@
   <a href="https://www.deviantart.com/unknownrori" target="_blank">
     <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" />
   </a>
-  <a href="https://pinterest.com/UnknownRori/" target="_blank">
+  <!-- <a href="https://pinterest.com/UnknownRori/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" />
   </a>
   <a href="https://dribbble.com/UnknownRori" target="_blank">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
-  </a>
-  <a href="https://soundcloud.com/unknown-rori" target="_blank">
+  </a> -->
+  <!-- <a href="https://soundcloud.com/unknown-rori" target="_blank">
     <img src="https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://dev.to/unknownrori" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
